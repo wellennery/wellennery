@@ -13,7 +13,6 @@
 - ⚡ Fun fact: I'm a lawyer, but I'm nice (I promise)
 
 - 📫 How to reach me:
-<p align="center">
 </a>
 <a href="https://twitter.com/wellennery" target="_blank">
  <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25347.png" alt="twitter"/ width=6% >  
@@ -26,6 +25,12 @@
 </a>
 </p>
 
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wellennery&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellennery&hide=TeX&layout=compact)
+
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=wns24601)](https://github.com/gazf/github-readme-twitter)
 
 <!--
 **wellennery/wellennery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
