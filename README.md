@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I'm a lawyer, but I'm nice (I promise)
 
 - 📫 How to reach me:
-</a>
+<p align="center">
 <a href="https://twitter.com/WellenneryTest" target="_blank">
  <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25347.png" alt="twitter"/ width=6% >  
 </a>
