@@ -1,18 +1,40 @@
-### Hi there 👋
+### Hi there! I'm Wellen 👋
+
+- 🔭 I’m currently working with technological solutions for tax refunds
+
+- 🌱 I’m currently learning Python and SQL
+
+- 👯 I’m looking to collaborate on Data Science projects
+
+- 🤔 I’m looking for help with Data Treatment and Deployment
+
+- 😄 Pronouns: She/Her
+
+- ⚡ Fun fact: I'm a lawyer, but I'm nice (I promise)
+
+- 📫 How to reach me:
+<p align="center">
+</a>
+<a href="https://twitter.com/wellennery" target="_blank">
+  <img align="center" src="<i class="fa-brands fa-twitter" alt="twitter"/>  
+</a>
+<a href="https://linkedin.com/in/wellennery" target="_blank">
+  <img align="center" src="<i class="fa-brands fa-twitter" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/wellennery" target="_blank">
+ <img align="center" src="<i class="fa-brands fa-twitter" alt="instagram"/>
+</a>
+</p>
+
 
 <!--
 **wellennery/wellennery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
 ### Olá Mundo! Eu sou a Vilmara Valdevino! 🖖🏻👩🏻‍💻
 
