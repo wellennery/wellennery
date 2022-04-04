@@ -18,7 +18,7 @@
  <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25347.png" alt="twitter"/ width=6% >  
 </a>
 <a href="https://linkedin.com/in/wellennery" target="_blank">
-  <img align="center" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-linkedin-3.png"  width=6% alt="linkedin"/>
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/49/49408.png"  width=6% alt="linkedin"/>
 </a>
 <a href="https://instagram.com/wellennery" target="_blank">
  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Black_Instagram_icon.svg/2048px-Black_Instagram_icon.svg.png" width=6% alt="instagram"/>
