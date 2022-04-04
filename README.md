@@ -14,7 +14,7 @@
 
 - 📫 How to reach me:
 </a>
-<a href="https://twitter.com/wellennery" target="_blank">
+<a href="https://twitter.com/WellenneryTest" target="_blank">
  <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25347.png" alt="twitter"/ width=6% >  
 </a>
 <a href="https://linkedin.com/in/wellennery" target="_blank">
@@ -25,13 +25,13 @@
 </a>
 </p>
 
-
+<p align="center">
+ 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=wellennery&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellennery&hide=TeX&layout=compact)
-
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=wns24601)](https://github.com/gazf/github-readme-twitter)
-
+ 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=WellenneryTest)](https://github.com/gazf/github-readme-twitter)
+</p>
 <!--
 **wellennery/wellennery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
