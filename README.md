@@ -27,10 +27,8 @@
 
 <p align="center">
  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wellennery&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellennery&theme=tokyonight&hide=TeX&layout=compact)
- 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=WellenneryTest&dark_mode=on)](https://github.com/gazf/github-readme-twitter)
+![stats](https://github-readme-stats.vercel.app/api?username=wellennery&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
+
  
 </p>
 <!--
@@ -38,7 +36,11 @@
 
 Here are some ideas to get you started:
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=WellenneryTest)](https://github.com/gazf/github-readme-twitter)
 
+
+<img width=500px src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellennery&theme=tokyonight&layout=compact" alt="wellennery"/>
+ 
 
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
