@@ -1,4 +1,4 @@
-### Hi there! I'm Wellen 👋
+### Hi there! I'm Wellen <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 - 🔭 I’m currently working with technological solutions for tax refunds
 
