@@ -14,14 +14,17 @@
 
 - 📫 How to reach me:
 <p align="center">
+ <a href="https://linkedin.com/in/wellennery" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/49/49408.png"  width=6% alt="linkedin"/>
+</a>
 <a href="https://twitter.com/WellenneryTest" target="_blank">
  <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25347.png" alt="twitter"/ width=6% >  
 </a>
-<a href="https://linkedin.com/in/wellennery" target="_blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/49/49408.png"  width=6% alt="linkedin"/>
-</a>
 <a href="https://instagram.com/wellennery" target="_blank">
  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Black_Instagram_icon.svg/2048px-Black_Instagram_icon.svg.png" width=6% alt="instagram"/>
+</a>
+ <a href="mailto:wellen_nery@hotmail.com" target="_blank">
+ <img align="center" src="https://www.pngarts.com/files/10/Email-Icon-PNG-Picture.png" width=6% alt="email"/>
 </a>
 </p>
 
