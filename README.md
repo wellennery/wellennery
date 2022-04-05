@@ -31,9 +31,11 @@
 <p align="center">
  
 ![stats](https://github-readme-stats.vercel.app/api?username=wellennery&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellennery&&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true" />
 
- 
 </p>
+
+
 <!--
 **wellennery/wellennery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
