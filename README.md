@@ -15,11 +15,8 @@
  <a href="https://linkedin.com/in/wellennery" target="_blank">
   <img align="center" src="https://www.freeiconspng.com/uploads/aquicon-linkedin-icon-10.png"  width=6% alt="linkedin"/>
 </a>
-<a href="https://twitter.com/WellenneryTest" target="_blank">
- <img align="center" src="https://www.freeiconspng.com/uploads/aquicon-twitter-icon-1.png" alt="twitter"/ width=6% >  
-</a>
 <a href="https://instagram.com/wellennery" target="_blank">
- <img align="center" src="http://ly.arq.br/wp-content/uploads/2016/07/instagram-ly-arquitetura.png" width=6% alt="instagram"/>
+ <img align="center" src="[http://ly.arq.br/wp-content/uploads/2016/07/instagram-ly-arquitetura.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbxSW2QOB3mzPxgQcOxw4LarArtexSdEhlhA&usqp=CAU)" width=6% alt="instagram"/>
 </a>
  <a href="mailto:wellen_nery@hotmail.com" target="_blank">
  <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-aquicons/512/Email.png" width=6% alt="email"/>
