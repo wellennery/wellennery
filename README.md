@@ -1,10 +1,8 @@
 ### Hi there! I'm Wellen <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="5%">
 
-- 🔭 I’m currently working as a Legal Business Analyst
+- 🔭 I’m currently working as a Data Analyst
 
-- 🌱 I’m currently learning Python and SQL
-
-- 👯 I’m looking to collaborate on Data Science projects
+- 🌱 I’m currently learning Python, R and SQL for Data Science and Analytics
 
 - 🤔 I’m looking for help with Data Treatment and Deployment
 
