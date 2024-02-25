@@ -12,13 +12,13 @@
 
 - 📫 How to reach me:
 <p align="center">
- <a href="https://linkedin.com/in/wellennery" target="_blank">
+ <a href="https://linkedin.com/in/wellennery" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://www.svgrepo.com/show/57106/linkedin.svg"  width=5% alt="linkedin"/>
 </a>
-<a href="https://instagram.com/wellennery" target="_blank">
+<a href="https://instagram.com/wellennery" target="_blank" rel="noopener noreferrer">
  <img align="center" src="https://www.freedomfcu.org/wp-content/uploads/2020/06/Instagram-icon.png" width=5% alt="instagram"/>
 </a>
- <a href="mailto:wellen_nery@hotmail.com" target="_blank">
+ <a href="mailto:wellen_nery@hotmail.com" target="_blank" rel="noopener noreferrer">
  <img align="center" src="https://icons.iconarchive.com/icons/fasticon/hand-draw-iphone/512/Mail-icon.png" width=6% alt="email"/>
 </a>
 </p>
