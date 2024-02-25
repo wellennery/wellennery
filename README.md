@@ -16,7 +16,7 @@
   <img align="center" src="https://www.freeiconspng.com/uploads/aquicon-linkedin-icon-10.png"  width=6% alt="linkedin"/>
 </a>
 <a href="https://instagram.com/wellennery" target="_blank">
- <img align="center" src="https://www.designi.com.br/images/preview/10448958.jpg" width=6% alt="instagram"/>
+ <img align="center" src="https://pngbuy.com/wp-content/uploads/2023/06/instagram-logotype-pngsplash-instagram-logo-png-950x1024.png" width=6% alt="instagram"/>
 </a>
  <a href="mailto:wellen_nery@hotmail.com" target="_blank">
  <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-aquicons/512/Email.png" width=6% alt="email"/>
