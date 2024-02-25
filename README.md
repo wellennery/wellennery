@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Data Analyst
 
-- 🌱 I’m currently learning Python, R and SQL for Data Science and Analytics
+- 🌱 I’m currently attending the MBA in Data Science and Analytics at USP-Esalq
 
 - 🤔 I’m looking for help with Data Treatment and Deployment
 
@@ -13,13 +13,13 @@
 - 📫 How to reach me:
 <p align="center">
  <a href="https://linkedin.com/in/wellennery" target="_blank">
-  <img align="center" src="https://www.freeiconspng.com/uploads/aquicon-linkedin-icon-10.png"  width=6% alt="linkedin"/>
+  <img align="center" src="https://www.svgrepo.com/show/57106/linkedin.svg"  width=5% alt="linkedin"/>
 </a>
 <a href="https://instagram.com/wellennery" target="_blank">
- <img align="center" src="https://www.onlygfx.com/wp-content/uploads/2022/03/instagram-logo-splatter-3.png" width=20% alt="instagram"/>
+ <img align="center" src="https://www.freedomfcu.org/wp-content/uploads/2020/06/Instagram-icon.png" width=5% alt="instagram"/>
 </a>
  <a href="mailto:wellen_nery@hotmail.com" target="_blank">
- <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-aquicons/512/Email.png" width=6% alt="email"/>
+ <img align="center" src="https://icons.iconarchive.com/icons/fasticon/hand-draw-iphone/512/Mail-icon.png" width=6% alt="email"/>
 </a>
 </p>
 
