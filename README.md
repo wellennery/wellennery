@@ -42,4 +42,4 @@
 
 </div> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wellennery" alt="wellennery" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=wellennery" alt="wellennery" /> </p>
