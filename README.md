@@ -3,7 +3,8 @@
 
 <div style="display: inline_block"><br> 
 
-
+  <h3>About me</h3>
+  
 - 📒 I’m currently pursuing an MBA in Data Science and Analytics at USP-Esalq
   
 - 📝 I'm also studying API Rest and Cloud AWS
@@ -17,7 +18,7 @@
 
 <p align="left"> 
 
-### How to reach me 📫
+<h3> How to reach me 📫 </h3>
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Wellen_Nery-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellennery/)](https://www.linkedin.com/in/wellennery/) 
@@ -27,6 +28,15 @@
 
 
 </div> 
+
+<div style="display: inline_block"><br> 
+
+<h3> Skills 👩🏾‍💻</h3>
+<a href= https://github.com/wellennery?tab=repositories&q=&type=&language=python&sort= > <img width ='42px' align= 'center'  src='https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png'> </a>
+<a href= https://github.com/wellennery?tab=repositories&q=&type=&language=rlanguage&sort= > <img width ='42px' align= 'center' src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png'> </a>
+<a href= https://github.com/wellennery?tab=repositories&q=&type=&language=rlanguage&sort= > <img width ='42px' align= 'center' src='https://www.ambient-it.net/wp-content/uploads/2022/06/formation-power-query.png'> </a>
+<a href= https://github.com/wellennery?tab=repositories&q=&type=&language=rlanguage&sort= > <img width ='42px' align= 'center' src='https://www.pngmart.com/files/23/Power-Bi-Logo-PNG-File.png'> </a>
+<a href= https://github.com/wellennery?tab=repositories&q=&type=&language=rlanguage&sort= > <img width ='42px' align= 'center' src='https://www.svgrepo.com/show/375454/looker.svg'> </a>
 
 <div style="display: inline_block"><br> 
 
