@@ -7,7 +7,7 @@
   
 - 📒 I’m currently pursuing an MBA in Data Science and Analytics at USP-Esalq
   
-- 📝 I'm also studying API Rest and Cloud AWS
+- 📝 I'm also studying AWS and Azure
 
 - 😄 My pronouns are She/Her
 
