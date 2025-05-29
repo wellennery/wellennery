@@ -1,5 +1,5 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Wellen </h1>
-<h3 align="center">Data Analist</h3>
+<h3 align="center">Data Analyst</h3>
 
 <div style="display: inline_block"><br> 
 
